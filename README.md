@@ -1,5 +1,7 @@
 # about
+
 ```mermaid
+
 flowchart stam
-A --> B
+    A --> B;
 ```
