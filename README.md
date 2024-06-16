@@ -1,5 +1,5 @@
 ```console
-echo lala
+echo shell
 ```
 
 ```mermaid
